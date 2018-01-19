@@ -1,0 +1,3 @@
+/home/jsilva/sandbox/logs_core_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jsilva/sandbox/logs_core_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jsilva/sandbox/logs_core_cpp/cmake-build-debug/CMakeFiles/logs_core_cpp.dir

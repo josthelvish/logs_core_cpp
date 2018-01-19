@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11 -O3 -fPIC  -g   CMakeFiles/logs_core_cpp.dir/main.cpp.o  -o logs_core_cpp  -L/home/jsilva/sandbox/logs_core_cpp/dependencies/libs/Linux/64 -Wl,-rpath,/home/jsilva/sandbox/logs_core_cpp/dependencies/libs/Linux/64 -lcpprest -lboost_system -lssl -lcrypto -ldl -lpthread 
